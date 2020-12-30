@@ -1,0 +1,9 @@
+
+.header{background-color:blue; text-align:left;border:solid}
+.text{border:solid;color:rgb(85, 144, 161);background-color:rgb(166,255,0)}
+.box{border:solid; border-color: white;background-color:rgb(229, 182, 196)}
+
+.footer{display:flex;justify-content: flex-end; border:solid}
+body{background-color: #63b83c;padding: 200;margin: 4em auto;text-align:left;font-family: 'Comic Sans MS', sans-serif;}
+
+ 
